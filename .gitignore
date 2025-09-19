@@ -1,0 +1,6 @@
+.zig-cache
+zig-out
+*.ptx
+bin/
+venv
+__pycache__
